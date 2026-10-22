@@ -1,0 +1,21 @@
+{
+  "name": "edutrack-student-management-system",
+  "version": "2.5.0",
+  "description": "Full-Stack Student Management System with Node.js REST API, SQLite database, and Role-Based Access Control",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "test": "node tests/api.test.js"
+  },
+  "keywords": [
+    "student-management-system",
+    "education",
+    "sqlite",
+    "rbac",
+    "rest-api",
+    "edutrack"
+  ],
+  "author": "EduTrack Team",
+  "license": "MIT"
+}
